@@ -45,9 +45,4 @@ _____________________________________________________
 43. Sorting using Bubble sort.
 44. Sorting using Insertion sort.
 45. Sorting using Selection sort.
-46.
-47.
-48.
-49.
-50.
 
