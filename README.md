@@ -1,4 +1,5 @@
 Chapter-wise solutions with few additional solutions.
+
 ______________________Chapter 1__________________________
 1. Given basic pay, compute the gross salary.
 2. Area/Circumference of a circle.
