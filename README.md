@@ -60,5 +60,5 @@ ______________________Chapter 8__________________________
 45. Sorting using Selection sort.
 
 ______________________Chapter 9__________________________
-46. Strings functions.
-47. Strings without functions.
+46. String functions.
+47. String without functions.
