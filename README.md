@@ -61,4 +61,4 @@ ______________________Chapter 8__________________________
 
 ______________________Chapter 9__________________________
 46. String functions.
-47. String without functions.
+47. Strings without functions.
